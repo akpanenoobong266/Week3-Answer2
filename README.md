@@ -1,7 +1,6 @@
 #week3-Answer2
 
 
-2. Write a PHP script to output your name,reg.no,state of origin and project topic
 
 
 <?php
